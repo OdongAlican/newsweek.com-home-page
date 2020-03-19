@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.weather-image {
+  width: 30px;
+  height: 30px;
+}
+
+.heading svg {
+  width: 350px;
+  height: 80px;
+}
+
+.heading svg path {
+  fill: white;
+}
+
+.subscribe {
+  background: violet;
+}
