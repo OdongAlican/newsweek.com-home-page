@@ -25,3 +25,19 @@
 .image-section img {
   width: 21.5em;
 }
+
+.top-stories {
+  width: 32em;
+}
+
+.opinion {
+  width: 23em;
+}
+
+.debators-photo {
+  margin-top: 2px;
+}
+
+.debators-actual-foto {
+  margin-top: -15px;
+}
