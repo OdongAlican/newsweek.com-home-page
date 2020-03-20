@@ -21,3 +21,7 @@
 .subscribe {
   background: violet;
 }
+
+.image-section img {
+  width: 21.5em;
+}
