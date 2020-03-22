@@ -30,7 +30,7 @@
   width: 32em;
 }
 
-.opinion {
+.opinion, .featured-stories {
   width: 23em;
 }
 
@@ -40,4 +40,8 @@
 
 .debators-actual-foto {
   margin-top: -15px;
+}
+
+.business-details {
+  width: 93.5%;
 }
