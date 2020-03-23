@@ -4,6 +4,7 @@
   padding: 0;
 }
 
+
 .weather-image {
   width: 30px;
   height: 30px;
@@ -21,19 +22,7 @@
 .subscribe {
   background: violet;
 }
-
-.image-section img {
-  width: 21.5em;
-}
-
-.top-stories {
-  width: 32em;
-}
-
-.opinion, .featured-stories {
-  width: 23em;
-}
-
+ 
 .debators-photo {
   margin-top: 2px;
 }
@@ -44,4 +33,15 @@
 
 .business-details {
   width: 93.5%;
+}
+
+
+.second-image-newsweek {
+  z-index: 1;
+  margin-left: -85%;
+  margin-top: 8%;
+}
+
+footer svg path {
+  fill: red;
 }
