@@ -22,6 +22,10 @@
 .subscribe {
   background: violet;
 }
+
+.overlapping-division {
+  bottom: 0;
+}
  
 .debators-photo {
   margin-top: 2px;
