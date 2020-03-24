@@ -23,9 +23,10 @@
   background: violet;
 }
 
-.overlapping-division {
+.overlapping-division{
   bottom: 0;
 }
+
  
 .debators-photo {
   margin-top: 2px;
@@ -37,13 +38,6 @@
 
 .business-details {
   width: 93.5%;
-}
-
-
-.second-image-newsweek {
-  z-index: 1;
-  margin-left: -85%;
-  margin-top: 8%;
 }
 
 footer svg path {
