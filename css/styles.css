@@ -4,6 +4,13 @@
   padding: 0;
 }
 
+body {
+  background-color: #F4F5F6;
+}
+
+main {
+  background-color: #fff;
+}
 
 .weather-image {
   width: 30px;
@@ -19,14 +26,9 @@
   fill: white;
 }
 
-.subscribe {
-  background: violet;
-}
-
 .overlapping-division{
   bottom: 0;
 }
-
  
 .debators-photo {
   margin-top: 2px;
@@ -42,4 +44,24 @@
 
 footer svg path {
   fill: red;
+}
+
+.authors-opinion-text span:hover, .topic-detail span:hover, .image-slide-right span:hover {
+  color: red;
+  cursor: pointer;
+}
+
+.business-heading:hover,
+.top-news-heading:hover,
+.latest-insight-heading span:hover,
+.more-stories-heading span:hover,
+.features-health-detail span:hover,
+.features-health-heading span:hover,
+.slide-show-text span:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.left-section-main-color {
+  background-color: #F4F5F6;
 }
