@@ -1,0 +1,24 @@
+{
+  "name": "newsweek.com-home-page",
+  "version": "1.0.0",
+  "description": "This project is the clone of the Newsweek.com Page using bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OdongAlican/newsweek.com-home-page.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OdongAlican/newsweek.com-home-page/issues"
+  },
+  "homepage": "https://github.com/OdongAlican/newsweek.com-home-page#readme",
+  "devDependencies": {
+    "stylelint": "^13.2.1",
+    "stylelint-config-recommended": "^3.0.0"
+  }
+}
